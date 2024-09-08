@@ -1,21 +1,26 @@
-<h1>Emulation of a Simplified Scheduling Policy</h1>
-<b>Notes:</b>
+Emulation of a Simplified Scheduling Policy 
+------------------------------------------------------------
+Notes:
 - Based on Linux Completely Fair Scheduler  
 - Uses Producer/Consumer model using threads
 - Threads 1 - 4 are the Consumer CPU threads
 - Thread 0 is the Producer which adds to the queues of the cpus
 - Ensure that 'process_info.txt' is in the directory with the information in Appendix A
 - It might take some time for all the processes to complete execution
+------------------------------------------------------------
  
-<b>Steps to Emulate Simplifed Scheduling Policy:</b>
+Steps to Emulate Simplifed Scheduling Policy:
+------------------------------------------------------------
 1. Navigate to the terminal and enter the directory of the PC Model
 2. Enter "./script" into the terminal (do not include the quotation marks)
 3. The system will open 1 xterm windows
 4. Resize the xterm window to use at least the whole width of the screen to make the output messages as clean and organized as possible
 5. Enter "./pc_demo" in the  xterm window (do not include the quotation marks)
 6. The emulation is completed when 'All done' is printed
+------------------------------------------------------------
 
-<b>Appendix A:</b>
+Appendix A:
+------------------------------------------------------------
 - This is the information 'process_info.txt' should contain:
 	1000,NORMAL,120,6100,-1 
 	1001,NORMAL,100,4000,-1 
@@ -37,3 +42,4 @@
 	1017,NORMAL,100,3200,-1 
 	1018,NORMAL,132,7400,-1 
 	1019,NORMAL,123,3300,-1
+------------------------------------------------------------
