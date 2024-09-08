@@ -1,5 +1,4 @@
 <h1>Emulation of a Simplified Scheduling Policy</h1>
-------------------------------------------------------------
 <b>Notes:</b>
 - Based on Linux Completely Fair Scheduler  
 - Uses Producer/Consumer model using threads
