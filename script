@@ -1,0 +1,2 @@
+gcc pc_demo.c -o pc_demo -lm
+xterm
