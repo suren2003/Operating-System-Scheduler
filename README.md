@@ -1,6 +1,4 @@
-Suren Kulasegaram, 101220595, Assignment 3, SYSC 4001
-
-Emulation of a Simplified Scheduling Policy 
+<b>Emulation of a Simplified Scheduling Policy</b>
 ------------------------------------------------------------
 Notes:
 - Based on Linux Completely Fair Scheduler  
@@ -11,7 +9,7 @@ Notes:
 - It might take some time for all the processes to complete execution
 ------------------------------------------------------------
  
-Steps to Emulate Simplifed Scheduling Policy:
+<b>Steps to Emulate Simplifed Scheduling Policy:</b>
 ------------------------------------------------------------
 1. Navigate to the terminal and enter the directory of the PC Model
 2. Enter "./script" into the terminal (do not include the quotation marks)
@@ -21,7 +19,7 @@ Steps to Emulate Simplifed Scheduling Policy:
 6. The emulation is completed when 'All done' is printed
 ------------------------------------------------------------
 
-Appendix A:
+Appendix A:</b>
 ------------------------------------------------------------
 - This is the information 'process_info.txt' should contain:
 	1000,NORMAL,120,6100,-1 
