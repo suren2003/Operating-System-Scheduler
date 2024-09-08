@@ -1,6 +1,5 @@
 Emulation of a Simplified Scheduling Policy 
 ------------------------------------------------------------
-Notes:
 - Based on Linux Completely Fair Scheduler  
 - Uses Producer/Consumer model using threads
 - Threads 1 - 4 are the Consumer CPU threads
